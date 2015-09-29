@@ -1,16 +1,16 @@
 #-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:11.818318
+#+DATE: 2015-09-28 22:58:12.029430
 #+TITLE: 註華嚴法界觀門
 #+PROPERTY: CBETA_ID T45n1884
 #+PROPERTY: ID KR6e0101
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1884
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 
 <pb:KR6e0101_T_000-0683b>¶
 
-[[file:KR6e0101_001.txt::001-0683b2][注華嚴法界觀門序]]
-[[file:KR6e0101_001.txt::0684c25][真空觀]]
-[[file:KR6e0101_001.txt::0687b4][理事無礙觀]]
-[[file:KR6e0101_001.txt::0689c23][周遍含容觀]]
+[[file:KR6e0101_001.txt::001-0683b3][注華嚴法界觀門序¶]]
+[[file:KR6e0101_001.txt::0684c26][¶]]
+[[file:KR6e0101_001.txt::0687b5][¶]]
+[[file:KR6e0101_001.txt::0689c24][¶]]
